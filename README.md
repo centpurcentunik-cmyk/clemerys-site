@@ -23,7 +23,8 @@ Les livrets PDF ne sont pas listés publiquement : ils sont accessibles via les 
 Les pages QR contiennent une balise `noindex, nofollow`.
 Le fichier `robots.txt` bloque aussi `/q/`.
 
-## Important avant impression
+## QR codes
 
-Les QR codes générés dans `assets/qr/` pointent actuellement vers l'adresse locale de test.
-Avant impression, il faut les régénérer avec le vrai nom de domaine.
+Les QR codes générés dans `assets/qr/` pointent vers l'adresse GitHub Pages :
+
+`https://centpurcentunik-cmyk.github.io/clemerys-site/`
